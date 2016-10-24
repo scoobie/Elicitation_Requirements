@@ -31,4 +31,7 @@ http://www.poll-maker.com/
 ####online Note Pad
 https://www.onenote.com/<br />
 https://notepad-plus-plus.org/
-
+####Card sorting, surveys, Questionnaire
+https://www.optimalworkshop.com/register<br />
+https://survs.com/<br />
+https://www.esurveycreator.com/
