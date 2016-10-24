@@ -14,4 +14,8 @@ https://balsamiq.com/download/<br />
 
 <b>Exercise 2:</b> Card Sorting using online web-tool. ( 5 min-10 min)</br >
 You don´t need any installation on your computer. Open the link to access the exercise on OptimalWorkshop and just follow the instructions.<br />
+We will send you the link during the presentation. No cheating.<br />
+
+<b>Exercise 3:</b> Brainstorming  (10 min-15min)</br >
+Please read the attached PDF Exercise3 simulate a brainstorming workshop.<br >
 
