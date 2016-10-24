@@ -23,5 +23,7 @@ Please read the attached PDF Exercise3 simulate a brainstorming workshop.<br />
 
 <h3>Tools</h3>
 Here bellow i am sending you some links for tools that can be used for elicitation techniques<br />
-####Prototyping tool high level#### https://www.axure.com/
+####Prototyping tool high level   https://www.axure.com/
+Voting tool https://www.easypolls.net/
+http://www.poll-maker.com/
   
