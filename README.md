@@ -21,3 +21,7 @@ We will send you the link during the presentation. No cheating.<br />
 <b>Exercise 3:</b> Brainstorming  (10 min-15min)</br >
 Please read the attached PDF Exercise3 simulate a brainstorming workshop.<br />
 
+<h3>Tools</h3>
+Here bellow i am sending you some links for tools that can be used for elicitation techniques
+    d
+  
