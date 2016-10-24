@@ -23,6 +23,9 @@ Please read the attached PDF Exercise3 simulate a brainstorming workshop.<br />
 
 <h3>Tools</h3>
 Here bellow i am sending you some links for tools that can be used for elicitation techniques<br />
+####Manage requirements list
+https://sourceforge.net/projects/osrmt/<br />
+https://www.visual-paradigm.com/
 ####Prototyping tool high level
 https://www.axure.com/
 ####Voting tool 
@@ -35,3 +38,5 @@ https://notepad-plus-plus.org/
 https://www.optimalworkshop.com/register<br />
 https://survs.com/<br />
 https://www.esurveycreator.com/
+
+
