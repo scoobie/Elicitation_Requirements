@@ -7,4 +7,8 @@ It will cover in more details all the elicitations techniques that we will discu
 
 <h3>Tools to be installed.</h3>
 Please download and install Balsamiq from the following link:<br />
-https://balsamiq.com/download/
+https://balsamiq.com/download/<br />
+
+<h3> Exercises</h3>
+<b>Exercise 1:</b> Prototyping using Balsamiq. (5 min-10 min)</br >
+
