@@ -26,9 +26,9 @@ Here bellow i am sending you some links for tools that can be used for elicitati
 ####Prototyping tool high level
 https://www.axure.com/
 ####Voting tool 
-https://www.easypolls.net/
+https://www.easypolls.net/<br />
 http://www.poll-maker.com/
 ####online Note Pad
-https://www.onenote.com/
+https://www.onenote.com/<br />
 https://notepad-plus-plus.org/
 
