@@ -38,5 +38,7 @@ https://notepad-plus-plus.org/
 https://www.optimalworkshop.com/register<br />
 https://survs.com/<br />
 https://www.esurveycreator.com/
-
+####Mind mapping
+https://coggle.ot<br />
+https://www.mindmeister.com/<br />
 
